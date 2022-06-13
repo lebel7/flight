@@ -1,7 +1,4 @@
-# flight
-
-▒█▀░█▒░░█░▄▀▒░█▄█░▀█▀
-░█▀▒█▄▄░█░▀▄█▒█▒█░▒█▒
+# █▓▒░░FLIGHT░░▒▓█
 
 <ol>
   <li>Please user the lastest .Net6 sdk or runtime or both</li>
